@@ -31,7 +31,7 @@ Ao final do teste subir para o GitHub e nos encaminhar o repositório em modo pu
 
 Criação do banco de dados em Postgres, esquema abaixo:
 
-<p align="center"><img src="https://github.com/rodrigocaldasnovas/usuarios/blob/main/diagrama.bmp" ></p>
+<p align="center"><img src="https://github.com/rodrigocaldasnovas/ipdv/blob/main/diagrama.bmp" ></p>
 
 
 As DDLs do esquema estão no arquivo esquema.sql, no diretorio principal do repositório. 
