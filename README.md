@@ -63,7 +63,7 @@ Tecnologias:
             "sequelize": "^6.21.3",
             "sequelize-cli": "^6.4.1"
 
-    Tudo registrado no package, bastanto usar o comando: npm install   
+    Tudo registrado no package, bastando usar o comando: npm install   
 
     para iniciar o servidor usar: npm run dev     
 
@@ -93,3 +93,10 @@ Tecnologias:
         
 
 ** ATENCAO ARQUIVO .ENV DEIXADO NO GITIGNORE DE PROPROSITO PARA FACILITAR NA USABILIDADE DO TESTE  
+
+** USARIO E SENHA HARDCODE 
+
+    USUARIO: ADMINSYS
+    SENHA: ADM1234
+
+    Após criar um usuário e setar sua senha tambem serão válidos para logar o sistema.
