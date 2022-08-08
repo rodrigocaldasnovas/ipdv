@@ -99,4 +99,4 @@ Tecnologias:
     USUARIO: ADMINSYS
     SENHA: ADM1234
 
-    Após criar um usuário e setar sua senha tambem serão válidos para logar o sistema.
+    Após criar outros usuário e setar suas senhas tambem serão válidos para logar o sistema.
