@@ -100,3 +100,7 @@ Tecnologias:
     SENHA: ADM1234
 
     Após criar outros usuário e setar suas senhas tambem serão válidos para logar o sistema.
+
+** IMPORTACAO DE USUARIOS
+
+    Em anexo exemplo de arquivo de importação: usuarios.csv
